@@ -2,7 +2,7 @@
 class C {
     int a;
     String b;
-    Boolean c;
+    boolean c;
     C()
     {
       a = 10;
